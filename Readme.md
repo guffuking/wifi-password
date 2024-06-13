@@ -1,4 +1,4 @@
-
+Mex Malik
 # wifi-password
 
 People ask you for the Wi-Fi password. Answer quickly. **macOS only**.
